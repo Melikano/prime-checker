@@ -1,5 +1,3 @@
-module PrimeChecker where
-
 import Control.Concurrent
 import Control.Exception (AsyncException (ThreadKilled))
 
